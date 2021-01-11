@@ -3,7 +3,7 @@ I am Ozioma Ogbe and I am a Software Engineer, I love solving problems and I am 
 Visitor count
 <p align="left"> 
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/Ezike/count.svg" />
+  <img src="https://profile-counter.glitch.me/oziomajnr/count.svg" />
 </p>
 
 <!--
